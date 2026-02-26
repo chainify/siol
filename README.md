@@ -59,14 +59,38 @@ If you create a derivative work of SIOL-licensed software:
 
 Verbatim copies of the license document may be freely copied and distributed. The name "Shariah-Informed Open License" and the abbreviation "SIOL" may not be used for modified versions without prior written permission. Modified versions must use a different name.
 
-## Document Structure
+## Islamic Ethics Statement
 
-The license document contains:
+*This section is not a legal instrument. It is an explanation, written plainly, of why this license exists and what Islamic principles underlie its restrictions. It is addressed to every person who encounters this Software — Muslim and non-Muslim alike.*
 
-- **Parts I–VIII** — The legal instrument (grant of rights, restrictions, termination, distribution, copyright, disclaimer, governing law, redistribution)
-- **Appendix: Islamic Ethics Statement** — A non-legal companion essay placed after the "END OF LICENSE" marker, explaining why this license exists, the Five Objectives of Islamic Law, and an invitation to reflect on the ethical coherence of Islamic values
+### Why This License Exists
 
-The Appendix is not part of the License and creates no legal obligations.
+We are Muslims. We believe that human beings are trustees (*khulafa*) on this earth (Al-Baqarah 2:30) and that providing a tool which is then used to cause harm is a matter of moral accountability — what the scholars call *i'anah ala al-ma'siyah* (assistance in sin). A license cannot enforce morality. But the Islamic principle of *bara'a* (disavowal of complicity in wrongdoing) requires us to state clearly what this Software must not be used for. What a person does after hearing the truth is between them and Allah.
+
+### The Five Objectives of Islamic Law (*Al-Maqasid al-Khamsah*)
+
+Classical Islamic scholars identified five essential things that Islamic law exists to protect:
+
+1. The preservation of religion (*hifz al-din*)
+2. The preservation of life (*hifz al-nafs*)
+3. The preservation of intellect and reason (*hifz al-'aql*)
+4. The preservation of lineage and family (*hifz al-nasl*)
+5. The preservation of wealth and property (*hifz al-mal*)
+
+Every restriction in Part II of this license maps to one or more of these objectives. Riba destroys wealth and exploits the vulnerable. Pornography corrupts lineage, chastity, and the intellect. Gambling corrupts wealth, reason, and social cohesion.
+
+Intoxicants destroy the intellect. Surveillance and oppression destroy life and freedom. Weapons that kill civilians destroy life entirely. Fraud destroys wealth and trust.
+
+We are not innovating new ethics. We are applying a 1,400-year-old ethical framework, refined by generations of scholars, to a new domain.
+
+### An Invitation
+
+We do not release this Software with hostility toward anyone. We release it with the hope that it will be genuinely useful, that its restrictions will cause those who encounter them to reflect — even briefly — on what they are building and why, and that the explanation above might, for some reader, be an opening toward understanding the ethical coherence of Islamic values.
+
+The Prophet Muhammad, peace be upon him, said: *"None of you truly believes until he loves for his brother what he loves for himself"* (Sahih Bukhari, 13). We want, for every human being, what we want for ourselves: a life of dignity, honesty, and safety from exploitation. This license is a small expression of that wish. Before Allah, each person bears the weight of their own choices.
+
+> *"Our Lord, accept this from us. Indeed, You are the Hearing, the Knowing."*
+> — Surah Al-Baqarah (2:127)
 
 ## Citation
 
