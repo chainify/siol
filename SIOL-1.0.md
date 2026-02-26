@@ -251,25 +251,30 @@ not limited to:
     (c) Parental control software with transparent and consensual application
         is not prohibited by this restriction.
 
-RESTRICTION 6 — WEAPONS OF MASS DESTRUCTION
+RESTRICTION 6 — WEAPONS AND MILITARY SYSTEMS THAT KILL CIVILIANS
 
 The Software may not be used in the development, design, guidance, deployment,
-or targeting systems of weapons whose design purpose is the indiscriminate mass
-killing of civilian populations, including but not limited to:
+targeting, or operational support of any weapons system or military technology
+used or designed for the killing, maiming, or indiscriminate harm of civilian
+populations, including but not limited to:
 
-    (a) Nuclear weapons delivery and targeting systems;
+    (a) Nuclear, chemical, biological, and radiological weapons;
 
-    (b) Chemical weapons production, formulation, or deployment systems;
+    (b) Conventional weapons systems — including bombs, missiles, drones,
+        and artillery — used or designed for strikes on civilian areas,
+        residential infrastructure, hospitals, schools, or places of worship;
 
-    (c) Biological weapons development, enhancement, or weaponization systems;
+    (c) Autonomous weapons systems and AI-assisted targeting platforms that
+        select or engage human targets;
 
-    (d) Radiological dispersal device design or deployment systems.
+    (d) Military surveillance and intelligence systems that provide
+        targeting data for strikes on civilian populations.
 
     Clarifications:
 
-    (a) Defensive cybersecurity systems and purely defensive military
-        infrastructure not designed for mass civilian casualties are not
-        prohibited by this restriction.
+    (a) Defensive cybersecurity systems and purely defensive infrastructure
+        not designed for or directed at harming civilians are not prohibited
+        by this restriction.
 
     (b) Academic research, simulation, and threat modeling conducted in
         the context of arms control, disarmament, or public health is not
@@ -521,14 +526,16 @@ communities. We have a particular duty not to contribute to systems that
 target any people for the practice of their faith or the expression of their
 identity.
 
-Weapons of Mass Destruction: Islamic rules of warfare (fiqh al-jihad) are
-explicit that non-combatants must not be targeted. The Prophet, peace be upon
-him, prohibited the killing of women, children, the elderly, and monks
-(Sahih Bukhari, 3015; Sahih Muslim, 1744; Abu Dawud, 2614). A weapon
-designed to kill indiscriminately cannot be
-made compliant with these rules. There is no scholarly position in mainstream
-Islamic jurisprudence that permits the deliberate mass killing of civilian
-populations.
+Weapons and the Killing of Civilians: Islamic rules of warfare (fiqh al-jihad)
+are explicit that non-combatants must not be targeted. The Prophet, peace be
+upon him, prohibited the killing of women, children, the elderly, and monks
+(Sahih Bukhari, 3015; Sahih Muslim, 1744; Abu Dawud, 2614). This prohibition
+does not depend on the type of weapon used. A conventional bomb dropped on a
+residential neighbourhood kills families just as surely as a nuclear weapon.
+A drone strike on a hospital is no less a crime because the missile is not
+chemical. The means do not determine the sin — the killing of innocents is
+the sin. There is no scholarly position in mainstream Islamic jurisprudence
+that permits the deliberate killing of civilian populations by any means.
 
 Fraud and Deception: "Whoever deceives us is not of us" (Sahih Muslim, 101).
 
