@@ -42,14 +42,18 @@ If you create a derivative work of SIOL-licensed software:
 - Retain all existing copyright notices without modification.
 - Add your own copyright notice for your modifications.
 - Clearly identify what was modified and when.
-- Distribute under SIOL or a compatible license with no fewer restrictions than Part II.
+- Distribute under SIOL (derivative works must use this license).
 
 ## Key Legal Details
 
 - **Governing law:** England and Wales (secular license with Islamic ethical foundations — see Part VIII)
-- **Termination:** Automatic upon breach, with a 30-day cure period for remediation
-- **Contributions:** Submitting a contribution grants a perpetual, royalty-free license under SIOL terms
+- **Jurisdiction:** Non-exclusive — disputes may be brought in England and Wales or where the breach occurs
+- **Termination:** Automatic upon breach; first-time breaches are automatically reinstated if cured within 30 days
+- **Patents:** Contributors grant a patent license; patent litigation against the project terminates the litigant's license
+- **Contributions:** Submitting a contribution grants a perpetual, royalty-free license and patent grant under SIOL terms, with a moral rights waiver
 - **No endorsement:** The original copyright holder's name may not be used to endorse derivative works without written permission
+- **Version upgrade:** Software may be used under this version or any later version of SIOL published by the copyright holder
+- **Language:** The English version of the license is authoritative; translations have no legal effect
 
 ## Redistributing This License Document
 
