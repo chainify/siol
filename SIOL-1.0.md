@@ -24,7 +24,9 @@ Allah, even if the harm is caused by another hand. This license identifies a
 specific set of use cases that are either prohibited by near-universal scholarly
 consensus or derived from contemporary ijtihad (scholarly reasoning) applying
 established Islamic principles to modern technology. The full Islamic basis for
-each restriction is set out in Part VII.
+each restriction is set out in Part VII. The specific restrictions applicable
+to this Software are set out exclusively in Part II. The Preamble and Part VII
+provide context and explanation but do not create additional obligations.
 
 We release this Software in a spirit of openness and benefit to all people,
 committed to the principle found in the Quran, Surah Al-Ma'idah (5:2):
@@ -46,11 +48,23 @@ The following terms, when capitalised in this License, have the meanings set
 out below. Grammatical variants of defined terms (such as "Distributes" or
 "Distribution") carry the corresponding defined meaning.
 
+"Person" means any natural person, organisation, corporation, or other legal
+entity, including its officers, employees, and agents acting on its behalf.
+
 "Software" means the source code, object code, documentation, and associated
 files released under this License by the copyright holder.
 
 "Derivative Work" means any work that is based upon or derived from the
 Software, including any modification, adaptation, translation, or extension.
+Mere interoperability with, linking to, importing of, or interfacing with the
+Software does not by itself create a Derivative Work.
+
+"Contribution" means any copyrightable material intentionally submitted to a
+project licensed under this License for inclusion in or documentation of the
+Software, including but not limited to source code, documentation, and test
+cases. "Submitted" means any form of communication sent to the project
+maintainers with the intent that it be incorporated, including pull requests,
+patches, commits, and electronic messages.
 
 "Distribute" means to make available to third parties by any means, including
 but not limited to publishing, hosting, transmitting, or providing access to
@@ -61,11 +75,10 @@ which a system, platform, application, or service is designed and marketed, as
 would be understood by a reasonable person. Incidental, ancillary, or
 unintended uses do not constitute the primary function.
 
-"Licensee" means any person, organisation, or legal entity that obtains,
-uses, modifies, or distributes the Software under the terms of this License.
-End users who use an application or service that incorporates the Software,
-without having received a copy of this License or the Software itself, are
-not Licensees.
+"Licensee" means any Person that obtains, uses, modifies, or distributes the
+Software under the terms of this License. End users who use an application or
+service that incorporates the Software, without having received a copy of
+this License or the Software itself, are not Licensees.
 
 --------------------------------------------------------------------------------
 PART I: GRANT OF RIGHTS
@@ -73,8 +86,8 @@ PART I: GRANT OF RIGHTS
 
 Subject to the terms and conditions of this License, including the Ethical Use
 Restrictions set forth in Part II, the copyright holder hereby grants to any
-person obtaining a copy of this Software a worldwide, royalty-free,
-non-exclusive, irrevocable license to:
+Person obtaining a copy of this Software a worldwide, royalty-free,
+non-exclusive license (irrevocable except as provided in Part III) to:
 
   1. Use the Software for any purpose not prohibited by Part II of this License;
 
@@ -85,8 +98,7 @@ non-exclusive, irrevocable license to:
      Software;
 
   4. Distribute modified versions and derivative works of the Software under
-     the terms of this License or a compatible license that imposes no fewer
-     restrictions than those in Part II;
+     the terms of this License;
 
   5. Sublicense the rights granted herein, provided that any sublicense is
      also subject to the Ethical Use Restrictions in Part II;
@@ -97,8 +109,23 @@ non-exclusive, irrevocable license to:
 The above rights may be exercised in all media, formats, and distribution
 channels, whether now known or hereafter devised.
 
-This License does not grant any rights in the patents, trademarks, or service
-marks of the copyright holder.
+For the avoidance of doubt, the Ethical Use Restrictions in Part II are
+conditions of the licence grant above. Any use of the Software in breach of
+Part II is unlicensed use and may constitute infringement of the copyright
+holder's rights.
+
+Each contributor to the Software grants to the copyright holder and to all
+recipients a perpetual, worldwide, royalty-free, non-exclusive, irrevocable
+patent license to make, use, sell, offer for sale, import, and otherwise
+transfer the Software, to the extent that such transfer is covered by patent
+claims licensable by the contributor that are necessarily infringed by their
+contribution. If any Person or entity institutes patent litigation against any
+contributor or licensee regarding the Software, the patent licence granted to
+that Person or entity under this License shall terminate as of the date such
+litigation is filed.
+
+This License does not grant any rights in the trademarks or service marks of
+the copyright holder.
 
 --------------------------------------------------------------------------------
 PART II: ETHICAL USE RESTRICTIONS
@@ -106,9 +133,13 @@ PART II: ETHICAL USE RESTRICTIONS
 
 The rights granted in Part I are conditioned upon the following restrictions.
 No Licensee may use, distribute, modify, or incorporate the Software, in whole
-or in part, in direct or substantial support of any of the following categories
-of activity. Each category is defined with specificity to avoid ambiguity. The
-Islamic scholarly basis for each restriction is set out in Part VII.
+or in part, in direct or substantial support (that is, support that is more
+than trivial, incidental, or remote) of any of the following categories of
+activity. Where a platform or system has multiple functions, a restriction
+applies where the prohibited activity constitutes the predominant revenue-
+generating or operational purpose of the system as a whole. Each category is
+defined with specificity to avoid ambiguity. The Islamic scholarly basis for
+each restriction is set out in Part VII.
 
 RESTRICTION 1 — INTEREST-BASED FINANCIAL SYSTEMS (RIBA)
 
@@ -182,10 +213,9 @@ limited to:
 
     (b) Cryptocurrency gambling platforms;
 
-    (c) Loot box systems and in-application purchase mechanics whose primary
-        design is the randomized distribution of items of significant monetary
-        value, where the randomization mechanism constitutes the core commercial
-        model;
+    (c) Loot box systems and in-application purchase mechanics where real
+        money is spent to obtain randomised outcomes, regardless of the
+        monetary value of individual items;
 
     (d) Lottery and scratch-card applications.
 
@@ -213,7 +243,8 @@ sale, distribution, or promotion of:
 
     (b) Controlled narcotics and illegal drugs;
 
-    (c) Any substance that intoxicates or incapacitates the human mind.
+    (c) Any substance primarily consumed for its intoxicating or mind-
+        altering effect.
 
     Clarifications:
 
@@ -230,8 +261,9 @@ RESTRICTION 5 — SURVEILLANCE, CONTROL, AND OPPRESSION
 The Software may not be used as a material component in any system whose
 Primary Function is the mass or covert surveillance, tracking, identification,
 or targeting of individuals or populations for the purpose of control,
-persecution, discrimination, or denial of fundamental rights, including but
-not limited to:
+persecution, discrimination, or denial of fundamental rights — including the
+rights to life, liberty, freedom from torture, freedom of conscience, and
+freedom of expression — including but not limited to:
 
     (a) Mass surveillance infrastructure designed to monitor, profile, or
         control populations or individuals, whether deployed by states,
@@ -257,10 +289,11 @@ not limited to:
 
 RESTRICTION 6 — WEAPONS AND MILITARY SYSTEMS THAT KILL CIVILIANS
 
-The Software may not be used in the development, design, guidance, deployment,
-targeting, or operational support of any weapons system or military technology
-used or designed for the killing, maiming, or indiscriminate harm of civilian
-populations, including but not limited to:
+The Software may not be used as a specific and material component in the
+development, design, guidance, deployment, targeting, or operational support
+of any weapons system or military technology used or designed for the killing,
+maiming, or indiscriminate harm of civilian populations, including but not
+limited to:
 
     (a) Nuclear, chemical, biological, and radiological weapons;
 
@@ -324,25 +357,28 @@ PART III: TERMINATION
   3. Cure Period. If the Licensee ceases the prohibited activity within
      thirty (30) days of becoming aware of a breach, or within thirty (30)
      days of receiving written notice from the copyright holder, whichever
-     is earlier, the Licensee may request reinstatement by written notice
-     to the copyright holder. Reinstatement is at the sole discretion of the
-     copyright holder,
-     exercised in good faith and in accordance with the Islamic principle that
-     sincere repentance (tawbah), accompanied by genuine cessation of the
-     harmful activity, merits fair consideration.
+     is earlier:
 
-  4. Survival. Parts VI (Disclaimer), VIII (Governing Law), and IX
-     (Redistribution of This License Document) survive termination of this
-     License. The Ethical Use Restrictions in Part II continue to apply to any
-     copies of the Software already distributed by the Licensee prior to
-     termination.
+     (a) For a first-time breach, the Licensee's rights under this License
+         shall be automatically reinstated upon full cessation of the
+         prohibited activity within the cure period.
+
+     (b) For any subsequent breach, the Licensee may request reinstatement
+         by written notice to the copyright holder. Reinstatement of
+         repeat offenders is at the sole discretion of the copyright
+         holder, exercised in good faith.
+
+  4. Survival. Parts II (Ethical Use Restrictions), VI (Disclaimer),
+     VIII (Governing Law), and IX (Redistribution of This License Document)
+     survive termination of this License. The obligation to cease use upon
+     termination is itself a surviving obligation.
 
 --------------------------------------------------------------------------------
 PART IV: CONDITIONS OF DISTRIBUTION
 --------------------------------------------------------------------------------
 
-Any person or entity that distributes the Software, whether in original or
-modified form, must:
+Any Person that distributes the Software, whether in original or modified
+form, must:
 
   1. Retain this License in full, without modification, in any distributed copy;
 
@@ -362,7 +398,7 @@ PART V: COPYRIGHT, ATTRIBUTION, AND CONTRIBUTIONS
 
 SECTION A — COPYRIGHT NOTICES IN ORIGINAL WORKS
 
-When a person or entity releases their own original Software under this
+When a Person releases their own original Software under this
 License, they shall insert their name and the year of first publication in
 the copyright notice at the top of this License, replacing the placeholders
 provided. This copyright notice refers to the Software, not to this License
@@ -370,7 +406,7 @@ document.
 
 SECTION B — COPYRIGHT NOTICES IN DERIVATIVE WORKS
 
-Any person or entity that creates a Derivative Work of Software licensed
+Any Person that creates a Derivative Work of Software licensed
 under this License:
 
   1. Must retain all existing copyright notices from the original Software
@@ -387,22 +423,30 @@ recommended but not required:
 
 SECTION C — CONTRIBUTIONS TO SIOL-LICENSED PROJECTS
 
-By submitting a contribution (including but not limited to source code,
-documentation, or other copyrightable material) to a project licensed under
-this License, the contributor:
+By submitting a Contribution to a project licensed under this License, the
+contributor:
 
   1. Grants to the copyright holder of the project, and to all recipients of
      the Software, a perpetual, worldwide, royalty-free, non-exclusive,
      irrevocable license to use, reproduce, modify, distribute, and sublicense
-     the contribution under the terms of this License;
+     the Contribution under the terms of this License;
 
-  2. Represents that they are legally entitled to grant the above license, and
-     that the contribution is their original work or that they have sufficient
-     rights to submit it;
+  2. Grants to the copyright holder and to all recipients a perpetual,
+     worldwide, royalty-free, non-exclusive, irrevocable patent license
+     covering any patent claims licensable by the contributor that are
+     necessarily infringed by the Contribution;
 
-  3. Understands that their contribution will be subject to the Ethical Use
+  3. To the extent permitted by applicable law, waives all moral rights in
+     the Contribution, including the right to be identified as the author
+     and the right to object to derogatory treatment of the work;
+
+  4. Represents that they are legally entitled to grant the above licenses
+     and waivers, and that the Contribution is their original work or that
+     they have sufficient rights to submit it;
+
+  5. Understands that their Contribution will be subject to the Ethical Use
      Restrictions in Part II, and that this obligation travels with the
-     contribution.
+     Contribution.
 
 This section does not prevent project maintainers from adopting additional
 contributor agreements (such as a Contributor License Agreement) that are
@@ -427,18 +471,18 @@ IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY
 DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
 (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
 LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE),
+UNDER STATUTE, OR OTHERWISE, ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-Nothing in this License excludes or limits liability for death or personal
-injury caused by negligence, or for fraud or fraudulent misrepresentation, to
-the extent such exclusion or limitation is not permitted by applicable law.
+Nothing in this License excludes or limits any liability which cannot be
+excluded or limited under applicable law, including but not limited to
+liability for death or personal injury caused by negligence, and liability
+for fraud or fraudulent misrepresentation.
 
 The copyright holder does not represent that compliance with the Ethical Use
 Restrictions in Part II can be monitored, verified, or enforced in every case.
-The responsibility for compliance rests with the user. Before Allah, each
-person bears the weight of their own choices.
+The responsibility for compliance rests with the user.
 
 --------------------------------------------------------------------------------
 PART VII: ISLAMIC ETHICS STATEMENT
@@ -552,7 +596,8 @@ The Prophet Muhammad, peace be upon him, said: "None of you truly believes
 until he loves for his brother what he loves for himself" (Sahih Bukhari,
 13). We want, for every human being, what we want for ourselves: a life of
 dignity, honesty, and safety from exploitation. This license is a small
-expression of that wish.
+expression of that wish. Before Allah, each person bears the weight of their
+own choices.
 
     "Our Lord, accept this from us. Indeed, You are the Hearing, the Knowing."
     — Surah Al-Baqarah (2:127)
@@ -560,12 +605,6 @@ expression of that wish.
 --------------------------------------------------------------------------------
 PART VIII: GOVERNING LAW AND JURISDICTION
 --------------------------------------------------------------------------------
-
-This License is governed by and construed in accordance with the laws of
-England and Wales. Any dispute arising out of or in connection with this
-License, including any question regarding its existence, validity, or
-termination, shall be subject to the exclusive jurisdiction of the courts of
-England and Wales.
 
 This is a secular license with ethical restrictions drawn from Islamic
 teachings. It is not governed by Shariah law. We live in a world where
@@ -580,14 +619,29 @@ institutions of justice rooted in divine law, as in the time of the Prophet,
 peace be upon him. Until that day, this License operates within the legal
 systems available to us, imperfect as they are.
 
+This License is governed by and construed in accordance with the laws of
+England and Wales. Any dispute arising out of or in connection with this
+License, including any question regarding its existence, validity, or
+termination, may be brought before the courts of England and Wales or before
+the courts of the jurisdiction in which the alleged breach occurs.
+
 Failure by the copyright holder to enforce any provision of this License does
 not constitute a waiver of that provision or of the right to enforce it in the
 future.
 
 If any provision of this License is held to be invalid, illegal, or
-unenforceable by a court of competent jurisdiction, such provision shall be
-severed from this License and the remaining provisions shall continue in full
-force and effect.
+unenforceable by a court of competent jurisdiction, such provision shall,
+where possible, be construed in a manner that renders it valid and enforceable
+and gives effect to its original intent. Where such construction is not
+possible, the provision shall be severed and the remaining provisions shall
+continue in full force and effect.
+
+The English language version of this License is the authoritative version. Any
+translation is provided for convenience only and has no legal effect.
+
+You may use, modify, and distribute this Software under the terms of this
+License, or (at your option) any later version of the Shariah-Informed Open
+License published by the copyright holder named above.
 
 --------------------------------------------------------------------------------
 PART IX: REDISTRIBUTION OF THIS LICENSE DOCUMENT
