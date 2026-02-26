@@ -8,12 +8,12 @@ An initiative to develop a source-available software license that incorporates e
 
 SIOL grants broad rights — use, copy, modify, distribute, and commercialise — while restricting use in seven categories rooted in Islamic ethical principles:
 
-1. **Usury and exploitative lending (Riba)** — Predatory lending targeting vulnerable individuals
-2. **Pornography** — Platforms whose primary function is sexually explicit content
+1. **Interest-based finance (Riba)** — All forms of interest, without exception
+2. **Pornography** — Sexually explicit content including AI-generated, animated, and fictional depictions
 3. **Gambling (Maysir)** — Casinos, sports betting, loot boxes, lotteries
-4. **Intoxicants** — Production, sale, or promotion of alcohol and recreational narcotics
-5. **Surveillance and oppression** — Covert tracking or targeting of people based on religion, ethnicity, or belief
-6. **Weapons of mass destruction** — Nuclear, chemical, biological, and radiological weapons systems
+4. **Intoxicants** — Production, sale, or promotion of alcohol and narcotics
+5. **Surveillance, control, and oppression** — Mass or covert surveillance of any people, by any entity
+6. **Weapons that kill civilians** — All weapons systems, conventional or otherwise, used or designed to harm civilian populations
 7. **Systematic deception and fraud** — Phishing, scam infrastructure, and disinformation platforms
 
 Each restriction is narrowly scoped using a **Primary Function** test — incidental, ancillary, or unintended uses do not trigger a violation. Detailed clarifications are provided in the license text.
@@ -46,7 +46,7 @@ If you create a derivative work of SIOL-licensed software:
 
 ## Key Legal Details
 
-- **Governing law:** England and Wales
+- **Governing law:** England and Wales (secular license with Islamic ethical foundations — see Part VIII)
 - **Termination:** Automatic upon breach, with a 30-day cure period for remediation
 - **Contributions:** Submitting a contribution grants a perpetual, royalty-free license under SIOL terms
 - **No endorsement:** The original copyright holder's name may not be used to endorse derivative works without written permission
