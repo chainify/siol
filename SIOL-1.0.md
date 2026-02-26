@@ -206,7 +206,7 @@ sale, distribution, or promotion of:
 
     (a) Alcoholic beverages;
 
-    (b) Controlled narcotics and illegal drugs intended for recreational use;
+    (b) Controlled narcotics and illegal drugs;
 
     (c) Any substance whose primary purpose is the intoxication or
         incapacitation of the human mind.
@@ -221,7 +221,7 @@ sale, distribution, or promotion of:
     (b) Regulatory compliance software used by government agencies monitoring
         controlled substances is not prohibited.
 
-RESTRICTION 5 — SURVEILLANCE, PERSECUTION, AND OPPRESSION OF PERSONS
+RESTRICTION 5 — SURVEILLANCE, CONTROL, AND OPPRESSION
 
 The Software may not be used as a material component in any system whose
 Primary Function is the mass or covert surveillance, tracking, identification,
@@ -248,7 +248,7 @@ not limited to:
     (a) Network security monitoring, threat detection, and cybersecurity
         tools are not prohibited by this restriction.
 
-    (c) Parental control software with transparent and consensual application
+    (b) Parental control software with transparent and consensual application
         is not prohibited by this restriction.
 
 RESTRICTION 6 — WEAPONS AND MILITARY SYSTEMS THAT KILL CIVILIANS
@@ -471,8 +471,8 @@ Every restriction in Part II of this license maps to one or more of these
 objectives. Riba destroys wealth and exploits the vulnerable. Pornography
 corrupts lineage, chastity, and the intellect. Gambling corrupts wealth, reason, and social cohesion.
 Intoxicants destroy the intellect. Surveillance and oppression destroy life
-and religious freedom. Weapons of mass destruction destroy life entirely.
-Fraud destroys wealth and trust.
+and freedom. Weapons that kill civilians destroy life entirely. Fraud
+destroys wealth and trust.
 
 We are not innovating new ethics. We are applying a 1,400-year-old ethical
 framework, refined by generations of scholars, to a new domain.
@@ -513,15 +513,13 @@ Allah orders justice and kindness, and giving to relatives, and forbids
 immorality, lewdness, and oppression. He admonishes you that perhaps you will
 be reminded." In a hadith qudsi, Allah declares: "O My servants, I have
 forbidden oppression for Myself and have made it forbidden amongst you, so do
-not oppress one another" (Sahih Muslim, 2577). The protection of people's
-ability to practice their religion freely falls directly under hifz al-din
-(preservation of religion), and the protection of their lives and dignity
-under hifz al-nafs (preservation of life). Among
-those most harmed by mass surveillance technology in the contemporary world
-are religious minorities under authoritarian regimes, including Muslim
-communities. We have a particular duty not to contribute to systems that
-target any people for the practice of their faith or the expression of their
-identity.
+not oppress one another" (Sahih Muslim, 2577). Mass surveillance is an
+instrument of oppression regardless of who it targets. It violates the
+dignity of every human being — Muslim and non-Muslim, dissident and ordinary
+citizen alike. The protection of life and dignity falls under hifz al-nafs
+(preservation of life), and the protection of freedom of conscience under
+hifz al-din (preservation of religion). We have a particular duty not to
+contribute to systems that monitor, profile, or control any people.
 
 Weapons and the Killing of Civilians: Islamic rules of warfare (fiqh al-jihad)
 are explicit that non-combatants must not be targeted. The Prophet, peace be
