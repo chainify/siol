@@ -110,27 +110,31 @@ or in part, in direct or substantial support of any of the following categories
 of activity. Each category is defined with specificity to avoid ambiguity. The
 Islamic scholarly basis for each restriction is set out in Part VII.
 
-RESTRICTION 1 — USURY AND EXPLOITATIVE FINANCIAL SYSTEMS (RIBA)
+RESTRICTION 1 — INTEREST-BASED FINANCIAL SYSTEMS (RIBA)
 
 The Software may not be used in the development, operation, maintenance, or
 support of any financial system, platform, application, or service whose
-Primary Function is the charging or collection of interest (riba) on loans
-or credit extended to natural persons (individual human beings) who are in
-conditions of financial need or limited financial alternatives.
+Primary Function is the charging, collection, or facilitation of interest
+(riba) in any form, whether on loans, credit, deposits, or any other
+financial instrument, regardless of the interest rate, the identity or
+financial condition of the parties involved, or whether the transaction is
+classified as conventional, commercial, or consumer lending.
 
     Clarifications:
 
-    (a) This restriction targets predatory lending products, payday loan
-        platforms, loan-shark operations, and high-interest consumer credit
-        systems whose structural design extracts wealth from vulnerable
-        individuals through the mechanism of compounding interest debt.
+    (a) Riba, in all its forms, is prohibited by unanimous scholarly
+        consensus (ijma'). This restriction applies to all interest-based
+        lending and borrowing systems without exception — including but not
+        limited to consumer credit, commercial loans, mortgage interest
+        platforms, payday lending, and any system whose structural design
+        involves the giving or taking of interest.
 
     (b) This restriction does not prohibit all use of the Software by
-        financial institutions. The Software may be used in banking
-        infrastructure, payment processing, accounting systems, financial
-        data analysis, and other financial technology applications not
-        primarily characterized by the extraction of interest from
-        vulnerable natural persons.
+        financial institutions. The Software may be used in payment
+        processing, accounting systems, financial data analysis, and other
+        financial technology applications whose Primary Function does not
+        involve the charging or collection of interest. Islamic (Shariah-
+        compliant) financial platforms are expressly permitted.
 
     (c) This restriction does not require the copyright holder to audit
         every financial use of the Software. It establishes the ethical
@@ -477,17 +481,17 @@ framework, refined by generations of scholars, to a new domain.
 
 ON THE PROHIBITIONS SPECIFICALLY
 
-Riba (Usury): Allah declared war, in the Quran itself, on those who persist
+Riba (Interest): Allah declared war, in the Quran itself, on those who persist
 in riba after being warned (Al-Baqarah 2:279). This is language used for
 almost nothing else in the Quran. The scholars are unanimous in its
-prohibition. We have narrowed our restriction to predatory lending targeting
-vulnerable individuals because we sought to be specific and enforceable rather
-than broad and unworkable. We acknowledge that the scholarly consensus on riba
-extends well beyond what this restriction covers. This restriction addresses
-what the authors identified as the most egregious violations; users are
-directed to seek independent scholarly guidance on the full scope of the riba
-prohibition as it applies to their specific activities. This is an ethical
-floor, not an ethical ceiling.
+prohibition — every form of interest, without exception, is haram. There is
+no distinction in Shariah between "high" and "low" interest, between
+"predatory" and "fair" lending, or between interest charged to the vulnerable
+and interest charged to the wealthy. Riba is riba. The prevalence of
+interest-based finance in the modern world does not alter the ruling. That
+which Allah has forbidden does not become permissible because it has become
+commonplace. This restriction reflects the full scope of the scholarly
+consensus, not a narrowed or diluted version of it.
 
 Pornography: The Prophet, peace be upon him, described the eye, the heart,
 and the hand as all capable of their own form of zina (Sahih Muslim, 2657).
