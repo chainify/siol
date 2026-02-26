@@ -1,0 +1,596 @@
+================================================================================
+SHARIAH-INFORMED OPEN LICENSE (SIOL)
+Version 1.0
+================================================================================
+
+Copyright (c) [Year] [Copyright Holder]
+
+BISMILLAH AL-RAHMAN AL-RAHIM
+In the name of Allah, the Most Gracious, the Most Merciful.
+
+--------------------------------------------------------------------------------
+PREAMBLE
+--------------------------------------------------------------------------------
+
+This license governs the use, reproduction, modification, and distribution of
+the software and associated documentation files (the "Software") released under
+it. It is offered freely to humanity as a contribution to beneficial knowledge,
+in the tradition of Islamic civilization's long service to science, mathematics,
+engineering, and the common good.
+
+The authors of this Software are Muslims who believe that providing a tool
+which is then used to cause harm is a matter of moral accountability before
+Allah, even if the harm is caused by another hand. This license identifies a
+specific set of use cases that are either prohibited by near-universal scholarly
+consensus or derived from contemporary ijtihad (scholarly reasoning) applying
+established Islamic principles to modern technology. The full Islamic basis for
+each restriction is set out in Part VII.
+
+We release this Software in a spirit of openness and benefit to all people,
+committed to the principle found in the Quran, Surah Al-Ma'idah (5:2):
+
+    "And cooperate in righteousness and piety, but do not cooperate
+     in sin and aggression."
+
+This license is source-available, not open source as defined by the Open Source
+Initiative (OSI). As Allah says: "There is no compulsion in religion"
+(Al-Baqarah 2:256). We invite all who use this Software — Muslim and non-Muslim
+alike — to consider the ethical weight of what they build with the tools
+available to them.
+
+--------------------------------------------------------------------------------
+DEFINITIONS
+--------------------------------------------------------------------------------
+
+The following terms, when capitalised in this License, have the meanings set
+out below. Grammatical variants of defined terms (such as "Distributes" or
+"Distribution") carry the corresponding defined meaning.
+
+"Software" means the source code, object code, documentation, and associated
+files released under this License by the copyright holder.
+
+"Derivative Work" means any work that is based upon or derived from the
+Software, including any modification, adaptation, translation, or extension.
+
+"Distribute" means to make available to third parties by any means, including
+but not limited to publishing, hosting, transmitting, or providing access to
+the Software or any Derivative Work.
+
+"Primary Function" means the predominant commercial or operational purpose for
+which a system, platform, application, or service is designed and marketed, as
+would be understood by a reasonable person. Incidental, ancillary, or
+unintended uses do not constitute the primary function.
+
+"Licensee" means any person, organisation, or legal entity that obtains,
+uses, modifies, or distributes the Software under the terms of this License.
+End users who use an application or service that incorporates the Software,
+without having received a copy of this License or the Software itself, are
+not Licensees.
+
+--------------------------------------------------------------------------------
+PART I: GRANT OF RIGHTS
+--------------------------------------------------------------------------------
+
+Subject to the terms and conditions of this License, including the Ethical Use
+Restrictions set forth in Part II, the copyright holder hereby grants to any
+person obtaining a copy of this Software a worldwide, royalty-free,
+non-exclusive, irrevocable license to:
+
+  1. Use the Software for any purpose not prohibited by Part II of this License;
+
+  2. Copy, reproduce, and distribute copies of the Software, in source or
+     compiled form, to any recipient;
+
+  3. Modify, adapt, translate, or create derivative works based upon the
+     Software;
+
+  4. Distribute modified versions and derivative works of the Software under
+     the terms of this License or a compatible license that imposes no fewer
+     restrictions than those in Part II;
+
+  5. Sublicense the rights granted herein, provided that any sublicense is
+     also subject to the Ethical Use Restrictions in Part II;
+
+  6. Use the Software for commercial purposes, provided that such commercial
+     use does not fall within the prohibited categories defined in Part II.
+
+The above rights may be exercised in all media, formats, and distribution
+channels, whether now known or hereafter devised.
+
+This License does not grant any rights in the patents, trademarks, or service
+marks of the copyright holder.
+
+--------------------------------------------------------------------------------
+PART II: ETHICAL USE RESTRICTIONS
+--------------------------------------------------------------------------------
+
+The rights granted in Part I are conditioned upon the following restrictions.
+No Licensee may use, distribute, modify, or incorporate the Software, in whole
+or in part, in direct or substantial support of any of the following categories
+of activity. Each category is defined with specificity to avoid ambiguity. The
+Islamic scholarly basis for each restriction is set out in Part VII.
+
+RESTRICTION 1 — USURY AND EXPLOITATIVE FINANCIAL SYSTEMS (RIBA)
+
+The Software may not be used in the development, operation, maintenance, or
+support of any financial system, platform, application, or service whose
+Primary Function is the charging or collection of interest (riba) on loans
+or credit extended to natural persons (individual human beings) who are in
+conditions of financial need or limited financial alternatives.
+
+    Clarifications:
+
+    (a) This restriction targets predatory lending products, payday loan
+        platforms, loan-shark operations, and high-interest consumer credit
+        systems whose structural design extracts wealth from vulnerable
+        individuals through the mechanism of compounding interest debt.
+
+    (b) This restriction does not prohibit all use of the Software by
+        financial institutions. The Software may be used in banking
+        infrastructure, payment processing, accounting systems, financial
+        data analysis, and other financial technology applications not
+        primarily characterized by the extraction of interest from
+        vulnerable natural persons.
+
+    (c) This restriction does not require the copyright holder to audit
+        every financial use of the Software. It establishes the ethical
+        boundary; the user bears the moral and legal responsibility for
+        compliance.
+
+RESTRICTION 2 — PORNOGRAPHY AND SEXUALLY EXPLICIT CONTENT
+
+The Software may not be used in the development, operation, maintenance,
+hosting, distribution, or monetization of any platform, application, or
+service whose Primary Function is the production, storage, distribution, or
+sale of sexually explicit content, including but not limited to:
+
+    (a) Pornographic video, image, or audio content involving real human
+        beings;
+
+    (b) AI-generated or algorithmically produced sexually explicit content
+        depicting real or realistic human subjects;
+
+    (c) Platforms whose primary commercial model is subscription to or
+        sale of sexually explicit content.
+
+    Clarifications:
+
+    (a) This restriction does not prohibit use of the Software in general
+        content platforms, social media, or media hosting services that may
+        incidentally encounter or moderate such content, provided the
+        platform's Primary Function is not the production or distribution of
+        sexually explicit material.
+
+    (b) Medical, clinical, or educational software dealing with human anatomy
+        or sexual health in a non-exploitative, professionally appropriate
+        manner is not prohibited by this restriction.
+
+RESTRICTION 3 — GAMBLING AND GAMES OF CHANCE
+
+The Software may not be used in the development, operation, or maintenance of
+any platform, application, or service whose Primary Function is gambling,
+wagering, or games of chance in which real monetary value or equivalent
+fungible assets are staked against an uncertain outcome, including but not
+limited to:
+
+    (a) Online casinos, sports betting platforms, and poker applications;
+
+    (b) Cryptocurrency gambling platforms;
+
+    (c) Loot box systems and in-application purchase mechanics whose primary
+        design is the randomized distribution of items of significant monetary
+        value, where the randomization mechanism constitutes the core commercial
+        model;
+
+    (d) Lottery and scratch-card applications.
+
+    Clarifications:
+
+    (a) Games of skill where monetary entry fees are incidental and the outcome
+        is determined primarily by player ability rather than chance are not
+        prohibited by this restriction.
+
+    (b) Statistical simulation, actuarial software, and probability modeling
+        tools used in research, insurance, or risk assessment are not prohibited
+        by this restriction.
+
+RESTRICTION 4 — INTOXICANTS AND NARCOTICS
+
+The Software may not be used in the development, operation, or support of any
+platform, application, or service whose Primary Function is the production,
+sale, distribution, or promotion of:
+
+    (a) Alcoholic beverages;
+
+    (b) Controlled narcotics and illegal drugs intended for recreational use;
+
+    (c) Any substance whose primary purpose is the intoxication or
+        incapacitation of the human mind.
+
+    Clarifications:
+
+    (a) Pharmaceutical software, clinical trial management systems, harm
+        reduction platforms, addiction treatment services, and medical
+        research applications are not prohibited by this restriction, even
+        where such software handles data relating to controlled substances.
+
+    (b) Regulatory compliance software used by government agencies monitoring
+        controlled substances is not prohibited.
+
+RESTRICTION 5 — SURVEILLANCE, PERSECUTION, AND OPPRESSION OF PERSONS
+
+The Software may not be used as a material component in any system whose
+Primary Function is the covert surveillance, tracking, identification, or
+targeting of individuals or populations for the purpose of persecution,
+discrimination, or denial of fundamental rights on the basis of religion,
+ethnicity, political belief, or protected characteristic, including but
+not limited to:
+
+    (a) Surveillance infrastructure used by authoritarian states to monitor
+        and suppress religious minorities, dissidents, or ethnic populations;
+
+    (b) Facial recognition or biometric systems deployed specifically for the
+        purpose of identifying and persecuting members of a religious or
+        ethnic group;
+
+    (c) Data collection and profiling systems designed to enable the
+        targeting of individuals for detention, interrogation, or punishment
+        based on religious observance or belief;
+
+    (d) Tools designed to enable stalking, harassment, or intimate partner
+        surveillance of private individuals without their knowledge or consent.
+
+    Clarifications:
+
+    (a) Legitimate law enforcement software operating under judicial oversight
+        and the rule of law is not prohibited by this restriction.
+
+    (b) Network security monitoring, threat detection, and cybersecurity
+        tools are not prohibited by this restriction.
+
+    (c) Parental control software with transparent and consensual application
+        is not prohibited by this restriction.
+
+RESTRICTION 6 — WEAPONS OF MASS DESTRUCTION
+
+The Software may not be used in the development, design, guidance, deployment,
+or targeting systems of weapons whose design purpose is the indiscriminate mass
+killing of civilian populations, including but not limited to:
+
+    (a) Nuclear weapons delivery and targeting systems;
+
+    (b) Chemical weapons production, formulation, or deployment systems;
+
+    (c) Biological weapons development, enhancement, or weaponization systems;
+
+    (d) Radiological dispersal device design or deployment systems.
+
+    Clarifications:
+
+    (a) Defensive cybersecurity systems and purely defensive military
+        infrastructure not designed for mass civilian casualties are not
+        prohibited by this restriction.
+
+    (b) Academic research, simulation, and threat modeling conducted in
+        the context of arms control, disarmament, or public health is not
+        prohibited by this restriction.
+
+RESTRICTION 7 — SYSTEMATIC DECEPTION AND FRAUD
+
+The Software may not be used as a primary instrument of systematic deception
+designed to cause material harm to individuals, including but not limited to:
+
+    (a) Phishing systems, scam infrastructure, and social engineering
+        platforms designed to deceive individuals into surrendering
+        financial assets, personal credentials, or sensitive information;
+
+    (b) Disinformation platforms whose Primary Function is the automated
+        mass production and distribution of fabricated content designed to
+        deceive the public on matters of material consequence;
+
+    (c) Fraud systems targeting vulnerable populations, including the
+        elderly or those in financial distress, through deceptive
+        impersonation or false promises.
+
+    Clarifications:
+
+    (a) Creative fiction, satire, games, simulations, and entertainment
+        platforms are not prohibited by this restriction.
+
+    (b) Security research involving simulated phishing or social engineering
+        conducted with institutional oversight and informed consent is not
+        prohibited by this restriction.
+
+--------------------------------------------------------------------------------
+PART III: TERMINATION
+--------------------------------------------------------------------------------
+
+  1. Automatic Termination. The rights granted under Part I shall terminate
+     automatically and without notice if the Licensee breaches any of the
+     Ethical Use Restrictions in Part II. Upon termination, the Licensee must
+     immediately cease all use, distribution, and sublicensing of the Software.
+
+  2. Scope of Termination. Termination applies only to the Licensee in breach.
+     The rights of any other person or entity who received the Software from
+     the Licensee prior to termination, and who remains in compliance with
+     this License, are not affected.
+
+  3. Cure Period. If the Licensee ceases the prohibited activity within
+     thirty (30) days of becoming aware of a breach, or within thirty (30)
+     days of receiving written notice from the copyright holder, whichever
+     is earlier, the Licensee may request reinstatement by written notice
+     to the copyright
+     holder. Reinstatement is at the sole discretion of the copyright holder,
+     exercised in good faith and in accordance with the Islamic principle that
+     sincere repentance (tawbah), accompanied by genuine cessation of the
+     harmful activity, merits fair consideration.
+
+  4. Survival. Parts VI (Disclaimer), VIII (Governing Law), and IX
+     (Redistribution of This License Document) survive termination of this
+     License. The Ethical Use Restrictions in Part II continue to apply to any
+     copies of the Software already distributed by the Licensee prior to
+     termination.
+
+--------------------------------------------------------------------------------
+PART IV: CONDITIONS OF DISTRIBUTION
+--------------------------------------------------------------------------------
+
+Any person or entity that distributes the Software, whether in original or
+modified form, must:
+
+  1. Retain this License in full, without modification, in any distributed copy;
+
+  2. Provide clear notice to recipients that the Software is distributed under
+     the Shariah-Informed Open License (SIOL) Version 1.0;
+
+  3. Include all copyright notices applicable to the Software, as described
+     in Part V, in any distributed source or compiled form.
+
+Modified versions of the Software must be clearly identified as modifications
+of the original, including the nature of the modifications and the date on
+which they were made.
+
+--------------------------------------------------------------------------------
+PART V: COPYRIGHT, ATTRIBUTION, AND CONTRIBUTIONS
+--------------------------------------------------------------------------------
+
+SECTION A — COPYRIGHT NOTICES IN ORIGINAL WORKS
+
+When a person or entity releases their own original Software under this
+License, they shall insert their name and the year of first publication in
+the copyright notice at the top of this License, replacing the placeholders
+provided. This copyright notice refers to the Software, not to this License
+document.
+
+SECTION B — COPYRIGHT NOTICES IN DERIVATIVE WORKS
+
+Any person or entity that creates a Derivative Work of Software licensed
+under this License:
+
+  1. Must retain all existing copyright notices from the original Software
+     without modification;
+
+  2. May add their own copyright notice for their modifications, clearly
+     identifying the portions of the work to which their copyright applies.
+
+Multiple copyright notices may appear in sequence. The following format is
+recommended but not required:
+
+    Copyright (c) [Year] [Original Author] — Original Work
+    Copyright (c) [Year] [Derivative Author] — Modifications
+
+SECTION C — CONTRIBUTIONS TO SIOL-LICENSED PROJECTS
+
+By submitting a contribution (including but not limited to source code,
+documentation, or other copyrightable material) to a project licensed under
+this License, the contributor:
+
+  1. Grants to the copyright holder of the project, and to all recipients of
+     the Software, a perpetual, worldwide, royalty-free, non-exclusive,
+     irrevocable license to use, reproduce, modify, distribute, and sublicense
+     the contribution under the terms of this License;
+
+  2. Represents that they are legally entitled to grant the above license, and
+     that the contribution is their original work or that they have sufficient
+     rights to submit it;
+
+  3. Understands that their contribution will be subject to the Ethical Use
+     Restrictions in Part II, and that this obligation travels with the
+     contribution.
+
+This section does not prevent project maintainers from adopting additional
+contributor agreements (such as a Contributor License Agreement) that are
+consistent with the terms of this License.
+
+SECTION D — NO ENDORSEMENT
+
+The name of the original copyright holder may not be used to endorse or
+promote Derivative Works without the prior written permission of the
+copyright holder. This restriction applies regardless of the extent of
+modification.
+
+--------------------------------------------------------------------------------
+PART VI: DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Nothing in this License excludes or limits liability for death or personal
+injury caused by negligence, or for fraud or fraudulent misrepresentation, to
+the extent such exclusion or limitation is not permitted by applicable law.
+
+The copyright holder does not represent that compliance with the Ethical Use
+Restrictions in Part II can be monitored, verified, or enforced in every case.
+The responsibility for compliance rests with the user. Before Allah, each
+person bears the weight of their own choices.
+
+--------------------------------------------------------------------------------
+PART VII: ISLAMIC ETHICS STATEMENT
+(Companion Document — Accessible Explanation of the Restrictions Above)
+--------------------------------------------------------------------------------
+
+This section is not a legal instrument. It is an explanation, written plainly,
+of why this license exists and what Islamic principles underlie its
+restrictions. It is addressed to every person who encounters this Software —
+Muslim and non-Muslim alike.
+
+WHY THIS LICENSE EXISTS
+
+We are Muslims. We believe that human beings are trustees (khulafa) on this
+earth (Al-Baqarah 2:30) and that providing a tool which is then used to cause
+harm is a matter of moral accountability — what the scholars call i'anah ala
+al-ma'siyah (assistance in sin). A license cannot enforce morality. But the
+Islamic principle of bara'a (disavowal of complicity in wrongdoing) requires us to state
+clearly what this Software must not be used for. What a person does after
+hearing the truth is between them and Allah.
+
+THE FIVE OBJECTIVES OF ISLAMIC LAW (AL-MAQASID AL-KHAMSAH)
+
+Classical Islamic scholars identified five essential things that Islamic law
+exists to protect. These are:
+
+  1. The preservation of religion (hifz al-din)
+  2. The preservation of life (hifz al-nafs)
+  3. The preservation of intellect and reason (hifz al-'aql)
+  4. The preservation of lineage and family (hifz al-nasl)
+  5. The preservation of wealth and property (hifz al-mal)
+
+Every restriction in Part II of this license maps to one or more of these
+objectives. Riba destroys wealth and exploits the vulnerable. Pornography
+corrupts lineage, chastity, and the intellect. Gambling corrupts wealth, reason, and social cohesion.
+Intoxicants destroy the intellect. Surveillance and oppression destroy life
+and religious freedom. Weapons of mass destruction destroy life entirely.
+Fraud destroys wealth and trust.
+
+We are not innovating new ethics. We are applying a 1,400-year-old ethical
+framework, refined by generations of scholars, to a new domain.
+
+ON THE PROHIBITIONS SPECIFICALLY
+
+Riba (Usury): Allah declared war, in the Quran itself, on those who persist
+in riba after being warned (Al-Baqarah 2:279). This is language used for
+almost nothing else in the Quran. The scholars are unanimous in its
+prohibition. We have narrowed our restriction to predatory lending targeting
+vulnerable individuals because we sought to be specific and enforceable rather
+than broad and unworkable. We acknowledge that the scholarly consensus on riba
+extends well beyond what this restriction covers. This restriction addresses
+what the authors identified as the most egregious violations; users are
+directed to seek independent scholarly guidance on the full scope of the riba
+prohibition as it applies to their specific activities. This is an ethical
+floor, not an ethical ceiling.
+
+Pornography: The Prophet, peace be upon him, described the eye, the heart,
+and the hand as all capable of their own form of zina (Sahih Muslim, 2657).
+A platform dedicated to the mass industrial production of sexually explicit
+content is, in our view, one of the most significant engines of moral
+corruption in contemporary society. We will not knowingly contribute to it.
+
+Gambling (Maysir): Allah explicitly prohibited maysir alongside khamr as
+"defilement from the work of Satan" (Al-Ma'idah 5:90). The verse continues:
+"Satan only wants to cause between you animosity and hatred through
+intoxicants and gambling, and to avert you from the remembrance of Allah and
+from prayer" (5:91). Gambling corrupts both wealth (hifz al-mal) and reason
+(hifz al-'aql).
+
+Intoxicants: "Every intoxicant is khamr, and every khamr is forbidden"
+(Sahih Muslim, 2003). Medical and harm-reduction software is excluded because
+the preservation of life takes precedence.
+
+Surveillance and Oppression: Allah says in Surah An-Nahl (16:90): "Indeed,
+Allah orders justice and kindness, and giving to relatives, and forbids
+immorality, lewdness, and oppression. He admonishes you that perhaps you will
+be reminded." In a hadith qudsi, Allah declares: "O My servants, I have
+forbidden oppression for Myself and have made it forbidden amongst you, so do
+not oppress one another" (Sahih Muslim, 2577). The protection of people's
+ability to practice their religion freely falls directly under hifz al-din
+(preservation of religion), and the protection of their lives and dignity
+under hifz al-nafs (preservation of life). Among
+those most harmed by mass surveillance technology in the contemporary world
+are religious minorities under authoritarian regimes, including Muslim
+communities. We have a particular duty not to contribute to systems that
+target any people for the practice of their faith or the expression of their
+identity.
+
+Weapons of Mass Destruction: Islamic rules of warfare (fiqh al-jihad) are
+explicit that non-combatants must not be targeted. The Prophet, peace be upon
+him, prohibited the killing of women, children, the elderly, and monks
+(Sahih Bukhari, 3015; Sahih Muslim, 1744; Abu Dawud, 2614). A weapon
+designed to kill indiscriminately cannot be
+made compliant with these rules. There is no scholarly position in mainstream
+Islamic jurisprudence that permits the deliberate mass killing of civilian
+populations.
+
+Fraud and Deception: "Whoever deceives us is not of us" (Sahih Muslim, 101).
+
+AN INVITATION
+
+We do not release this Software with hostility toward anyone. We release it
+with the hope that it will be genuinely useful, that its restrictions will
+cause those who encounter them to reflect — even briefly — on what they are
+building and why, and that the explanation above might, for some reader,
+be an opening toward understanding the ethical coherence of Islamic values.
+
+The Prophet Muhammad, peace be upon him, said: "None of you truly believes
+until he loves for his brother what he loves for himself" (Sahih Bukhari,
+13). We want, for every human being, what we want for ourselves: a life of
+dignity, honesty, and safety from exploitation. This license is a small
+expression of that wish.
+
+    "Our Lord, accept this from us. Indeed, You are the Hearing, the Knowing."
+    — Surah Al-Baqarah (2:127)
+
+--------------------------------------------------------------------------------
+PART VIII: GOVERNING LAW AND JURISDICTION
+--------------------------------------------------------------------------------
+
+This License shall be governed by and construed in accordance with the laws of
+England and Wales. Any dispute arising out of or in connection with this
+License, including any question regarding its existence, validity, or
+termination, shall be subject to the exclusive jurisdiction of the courts of
+England and Wales.
+
+Where the Ethical Use Restrictions in Part II reference Islamic legal principles,
+such references serve to explain the moral and ethical foundation of the
+restrictions. The interpretation and enforcement of these restrictions as legal
+terms shall be determined by the courts of England and Wales applying English
+law.
+
+Failure by the copyright holder to enforce any provision of this License does
+not constitute a waiver of that provision or of the right to enforce it in the
+future.
+
+If any provision of this License is held to be invalid, illegal, or
+unenforceable by a court of competent jurisdiction, such provision shall be
+severed from this License and the remaining provisions shall continue in full
+force and effect.
+
+--------------------------------------------------------------------------------
+PART IX: REDISTRIBUTION OF THIS LICENSE DOCUMENT
+--------------------------------------------------------------------------------
+
+Permission is hereby granted to any person to copy and distribute verbatim
+copies of this license document. The name "Shariah-Informed Open License" and
+the abbreviation "SIOL" may not be used to identify any modified version of
+this license document without the prior written permission of the copyright
+holder named above. Modified versions of this license document must be
+distributed under a different name to avoid confusion with the original.
+
+--------------------------------------------------------------------------------
+END OF SHARIAH-INFORMED OPEN LICENSE (SIOL) VERSION 1.0
+--------------------------------------------------------------------------------
+
+For questions, scholarly review submissions, or consultation regarding this
+license, contact: [Copyright Holder Contact Information]
+
+License version: SIOL-1.0
+Reference identifier for citation: SIOL-1.0
