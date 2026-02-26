@@ -555,17 +555,24 @@ expression of that wish.
 PART VIII: GOVERNING LAW AND JURISDICTION
 --------------------------------------------------------------------------------
 
-This License shall be governed by and construed in accordance with the laws of
+This License is governed by and construed in accordance with the laws of
 England and Wales. Any dispute arising out of or in connection with this
 License, including any question regarding its existence, validity, or
 termination, shall be subject to the exclusive jurisdiction of the courts of
 England and Wales.
 
-Where the Ethical Use Restrictions in Part II reference Islamic legal principles,
-such references serve to explain the moral and ethical foundation of the
-restrictions. The interpretation and enforcement of these restrictions as legal
-terms shall be determined by the courts of England and Wales applying English
-law.
+This is a secular license with ethical restrictions drawn from Islamic
+teachings. It is not governed by Shariah law. We live in a world where
+no Shariah court system exists with the jurisdiction to enforce software
+licenses across borders. We acknowledge this reality honestly rather than
+claim an authority we do not possess. The Ethical Use Restrictions in Part II
+are legal terms interpreted and enforced under English law. Their Islamic
+foundation is a matter of conscience, not of jurisdiction.
+
+If Allah wills, a time may come when the believing community restores
+institutions of justice rooted in divine law, as in the time of the Prophet,
+peace be upon him. Until that day, this License operates within the legal
+systems available to us, imperfect as they are.
 
 Failure by the copyright holder to enforce any provision of this License does
 not constitute a waiver of that provision or of the right to enforce it in the
