@@ -246,10 +246,7 @@ not limited to:
 
     Clarifications:
 
-    (a) Legitimate law enforcement software operating under judicial oversight
-        and the rule of law is not prohibited by this restriction.
-
-    (b) Network security monitoring, threat detection, and cybersecurity
+    (a) Network security monitoring, threat detection, and cybersecurity
         tools are not prohibited by this restriction.
 
     (c) Parental control software with transparent and consensual application
