@@ -151,8 +151,8 @@ sale of sexually explicit content, including but not limited to:
     (a) Pornographic video, image, or audio content involving real human
         beings;
 
-    (b) AI-generated or algorithmically produced sexually explicit content
-        depicting real or realistic human subjects;
+    (b) AI-generated, algorithmically produced, or animated sexually explicit
+        content, whether depicting real, realistic, or fictional subjects;
 
     (c) Platforms whose primary commercial model is subscription to or
         sale of sexually explicit content.
@@ -208,8 +208,7 @@ sale, distribution, or promotion of:
 
     (b) Controlled narcotics and illegal drugs;
 
-    (c) Any substance whose primary purpose is the intoxication or
-        incapacitation of the human mind.
+    (c) Any substance that intoxicates or incapacitates the human mind.
 
     Clarifications:
 
@@ -321,8 +320,8 @@ PART III: TERMINATION
      thirty (30) days of becoming aware of a breach, or within thirty (30)
      days of receiving written notice from the copyright holder, whichever
      is earlier, the Licensee may request reinstatement by written notice
-     to the copyright
-     holder. Reinstatement is at the sole discretion of the copyright holder,
+     to the copyright holder. Reinstatement is at the sole discretion of the
+     copyright holder,
      exercised in good faith and in accordance with the Islamic principle that
      sincere repentance (tawbah), accompanied by genuine cessation of the
      harmful activity, merits fair consideration.
@@ -469,7 +468,8 @@ exists to protect. These are:
 
 Every restriction in Part II of this license maps to one or more of these
 objectives. Riba destroys wealth and exploits the vulnerable. Pornography
-corrupts lineage, chastity, and the intellect. Gambling corrupts wealth, reason, and social cohesion.
+corrupts lineage, chastity, and the intellect. Gambling corrupts wealth,
+reason, and social cohesion.
 Intoxicants destroy the intellect. Surveillance and oppression destroy life
 and freedom. Weapons that kill civilians destroy life entirely. Fraud
 destroys wealth and trust.
