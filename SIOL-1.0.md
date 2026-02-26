@@ -159,11 +159,12 @@ sale of sexually explicit content, including but not limited to:
 
     Clarifications:
 
-    (a) This restriction does not prohibit use of the Software in general
-        content platforms, social media, or media hosting services that may
-        incidentally encounter or moderate such content, provided the
-        platform's Primary Function is not the production or distribution of
-        sexually explicit material.
+    (a) This restriction does not prohibit use of the Software in content
+        moderation tools whose purpose is the detection and removal of
+        sexually explicit material. However, platforms that knowingly host,
+        serve, or tolerate sexually explicit content — including behind age
+        gates, filters, or opt-in mechanisms — are not considered to be
+        merely "encountering" such content incidentally.
 
     (b) Medical, clinical, or educational software dealing with human anatomy
         or sexual health in a non-exploitative, professionally appropriate
@@ -190,13 +191,17 @@ limited to:
 
     Clarifications:
 
-    (a) Games of skill where monetary entry fees are incidental and the outcome
-        is determined primarily by player ability rather than chance are not
-        prohibited by this restriction.
+    (a) Competitions where participants pay an entry fee to compete for
+        non-monetary rewards (medals, trophies, rankings) are not prohibited.
+        Competitions where participation is free and prizes are funded by
+        sponsors or third parties are not prohibited. However, any system
+        where participants stake money against an uncertain outcome to win
+        money — regardless of whether skill is involved — is a form of
+        gambling and is prohibited by this restriction.
 
     (b) Statistical simulation, actuarial software, and probability modeling
-        tools used in research, insurance, or risk assessment are not prohibited
-        by this restriction.
+        tools used in research or risk assessment are not prohibited by this
+        restriction.
 
 RESTRICTION 4 — INTOXICANTS AND NARCOTICS
 
