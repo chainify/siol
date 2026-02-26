@@ -224,22 +224,21 @@ sale, distribution, or promotion of:
 RESTRICTION 5 — SURVEILLANCE, PERSECUTION, AND OPPRESSION OF PERSONS
 
 The Software may not be used as a material component in any system whose
-Primary Function is the covert surveillance, tracking, identification, or
-targeting of individuals or populations for the purpose of persecution,
-discrimination, or denial of fundamental rights on the basis of religion,
-ethnicity, political belief, or protected characteristic, including but
+Primary Function is the mass or covert surveillance, tracking, identification,
+or targeting of individuals or populations for the purpose of control,
+persecution, discrimination, or denial of fundamental rights, including but
 not limited to:
 
-    (a) Surveillance infrastructure used by authoritarian states to monitor
-        and suppress religious minorities, dissidents, or ethnic populations;
+    (a) Mass surveillance infrastructure designed to monitor, profile, or
+        control populations or individuals, whether deployed by states,
+        corporations, or other entities;
 
-    (b) Facial recognition or biometric systems deployed specifically for the
-        purpose of identifying and persecuting members of a religious or
-        ethnic group;
+    (b) Facial recognition or biometric systems deployed for the purpose of
+        identifying, tracking, or persecuting individuals or groups;
 
     (c) Data collection and profiling systems designed to enable the
-        targeting of individuals for detention, interrogation, or punishment
-        based on religious observance or belief;
+        targeting of individuals for detention, interrogation, punishment,
+        or suppression of their rights and freedoms;
 
     (d) Tools designed to enable stalking, harassment, or intimate partner
         surveillance of private individuals without their knowledge or consent.
