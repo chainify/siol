@@ -22,7 +22,7 @@ SIOL is **source-available**, not open source as defined by the Open Source Init
 
 To license your software under SIOL:
 
-1. Copy `SIOL-1.0.txt` into your project root (commonly as `LICENSE` or `LICENSE.txt`).
+1. Copy `SIOL-1.0.md` into your project root (commonly as `LICENSE` or `LICENSE.md`).
 2. Replace the placeholders at the top of the file:
    - `[Year]` — Year of first publication
    - `[Copyright Holder]` — Your name or organisation
