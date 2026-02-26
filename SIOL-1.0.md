@@ -33,10 +33,10 @@ committed to the principle found in the Quran, Surah Al-Ma'idah (5:2):
      in sin and aggression."
 
 This license is source-available, not open source as defined by the Open Source
-Initiative (OSI). As Allah says: "There is no compulsion in religion"
-(Al-Baqarah 2:256). We invite all who use this Software — Muslim and non-Muslim
+Initiative (OSI). We invite all who use this Software — Muslim and non-Muslim
 alike — to consider the ethical weight of what they build with the tools
-available to them.
+available to them. As Allah says: "There is no compulsion in religion"
+(Al-Baqarah 2:256).
 
 --------------------------------------------------------------------------------
 DEFINITIONS
