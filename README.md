@@ -1,6 +1,8 @@
 # Shariah-Informed Open License (SIOL) — Version 1.0
 
-A source-available software license that incorporates ethical use restrictions derived from Islamic law.
+An initiative to develop a source-available software license that incorporates ethical use restrictions derived from Islamic law.
+
+> **Note:** This license is currently under development. The text may change as it undergoes scholarly review and community feedback. It is not yet recommended for production use.
 
 ## What Is SIOL?
 
