@@ -16,7 +16,7 @@ SIOL grants broad rights — use, copy, modify, distribute, and commercialise �
 6. **Weapons that kill civilians** — All weapons systems, conventional or otherwise, used or designed to harm civilian populations
 7. **Systematic deception and fraud** — Phishing, scam infrastructure, and disinformation platforms
 
-Each restriction is narrowly scoped using a **Primary Function** test — incidental, ancillary, or unintended uses do not trigger a violation. Detailed clarifications are provided in the license text.
+Each restriction is narrowly scoped using a **Primary Function** test — incidental, ancillary, or unintended uses do not trigger a violation. Each restriction includes detailed clarifications and an **Islamic Basis** passage providing the scholarly and scriptural foundation (explicitly non-operative — context only, not additional legal obligations).
 
 SIOL is **source-available**, not open source as defined by the Open Source Initiative (OSI).
 
@@ -46,7 +46,7 @@ If you create a derivative work of SIOL-licensed software:
 
 ## Key Legal Details
 
-- **Governing law:** England and Wales (secular license with Islamic ethical foundations — see Part VIII)
+- **Governing law:** England and Wales (secular license with Islamic ethical foundations — see Part VII)
 - **Jurisdiction:** Non-exclusive — disputes may be brought in England and Wales or where the breach occurs
 - **Termination:** Automatic upon breach; first-time breaches are automatically reinstated if cured within 30 days
 - **Patents:** Contributors grant a patent license; patent litigation against the project terminates the litigant's license
@@ -58,6 +58,15 @@ If you create a derivative work of SIOL-licensed software:
 ## Redistributing This License Document
 
 Verbatim copies of the license document may be freely copied and distributed. The name "Shariah-Informed Open License" and the abbreviation "SIOL" may not be used for modified versions without prior written permission. Modified versions must use a different name.
+
+## Document Structure
+
+The license document contains:
+
+- **Parts I–VIII** — The legal instrument (grant of rights, restrictions, termination, distribution, copyright, disclaimer, governing law, redistribution)
+- **Appendix: Islamic Ethics Statement** — A non-legal companion essay placed after the "END OF LICENSE" marker, explaining why this license exists, the Five Objectives of Islamic Law, and an invitation to reflect on the ethical coherence of Islamic values
+
+The Appendix is not part of the License and creates no legal obligations.
 
 ## Citation
 
