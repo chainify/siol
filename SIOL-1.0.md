@@ -299,10 +299,7 @@ designed to cause material harm to individuals, including but not limited to:
 
     Clarifications:
 
-    (a) Creative fiction, satire, games, simulations, and entertainment
-        platforms are not prohibited by this restriction.
-
-    (b) Security research involving simulated phishing or social engineering
+    (a) Security research involving simulated phishing or social engineering
         conducted with institutional oversight and informed consent is not
         prohibited by this restriction.
 
