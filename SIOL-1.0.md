@@ -475,6 +475,7 @@ Every restriction in Part II of this license maps to one or more of these
 objectives. Riba destroys wealth and exploits the vulnerable. Pornography
 corrupts lineage, chastity, and the intellect. Gambling corrupts wealth,
 reason, and social cohesion.
+
 Intoxicants destroy the intellect. Surveillance and oppression destroy life
 and freedom. Weapons that kill civilians destroy life entirely. Fraud
 destroys wealth and trust.
