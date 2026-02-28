@@ -28,7 +28,7 @@ To license your software under SIOL:
 2. Replace the placeholders at the top of the file:
    - `[Year]` — Year of first publication
    - `[Copyright Holder]` — Your name or organisation
-3. Replace `[Copyright Holder Contact Information]` at the bottom with your contact details.
+3. Replace `[Copyright Holder Contact Information]` at the bottom with your contact details (for questions about your software — questions about the SIOL license itself go to siol@cnfy.org).
 4. Reference the license in your project (e.g., in your README):
    ```
    Licensed under the Shariah-Informed Open License (SIOL) Version 1.0.
