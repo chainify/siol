@@ -560,11 +560,6 @@ claim an authority we do not possess. The Ethical Use Restrictions in Part II
 are legal terms interpreted and enforced under English law. Their Islamic
 foundation is a matter of conscience, not of jurisdiction.
 
-If Allah wills, a time may come when the believing community restores
-institutions of justice rooted in divine law, as in the time of the Prophet,
-peace be upon him. Until that day, this License operates within the legal
-systems available to us, imperfect as they are.
-
 This License is governed by and construed in accordance with the laws of
 England and Wales. Any dispute arising out of or in connection with this
 License, including any question regarding its existence, validity, or
