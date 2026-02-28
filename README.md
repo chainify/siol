@@ -1,14 +1,12 @@
-# Shariah-Informed Open License (SIOL) — Version 1.0
+# Shariah-Informed Open License (SIOL)
 
-An initiative to develop a source-available software license that incorporates ethical use restrictions derived from Islamic law.
+We are Muslims. We believe that providing a tool which is then used to cause harm is a matter of moral accountability before Allah — what the scholars call *i'anah ala al-ma'siyah* (assistance in sin). A license cannot enforce morality. But the Islamic principle of *bara'a* (disavowal of complicity in wrongdoing) requires us to state clearly what our software must not be used for.
 
-> **Note:** This license is currently under development. The text may change as it undergoes scholarly review and community feedback. It is not yet recommended for production use.
+This license exists for anyone — Muslim or not — who wants to build without becoming complicit in what we believe is harm. What a person does after hearing the truth is between them and Allah.
 
-## Frequently Asked Questions
+## What SIOL Does
 
-### What is SIOL?
-
-SIOL grants broad rights — use, copy, modify, distribute, and commercialise — while restricting use in seven categories rooted in Islamic ethical principles:
+SIOL grants broad rights — use, copy, modify, distribute, and commercialise — while refusing to permit use in seven categories:
 
 1. **Interest-based finance (Riba)** — All forms of interest, without exception
 2. **Pornography** — Sexually explicit content including AI-generated, animated, and fictional depictions
@@ -22,7 +20,7 @@ Each restriction is narrowly scoped using a **Primary Function** test — incide
 
 SIOL is **source-available**, not open source as defined by the Open Source Initiative (OSI).
 
-### How do I use SIOL?
+## How to Use SIOL
 
 To license your software under SIOL:
 
@@ -37,7 +35,7 @@ To license your software under SIOL:
    See LICENSE for details.
    ```
 
-#### What about derivative works?
+### Derivative Works
 
 If you create a derivative work of SIOL-licensed software:
 
@@ -46,7 +44,7 @@ If you create a derivative work of SIOL-licensed software:
 - Clearly identify what was modified and when.
 - Distribute under SIOL (derivative works must use this license).
 
-### What are the key legal details?
+## Key Legal Details
 
 - **Governing law:** England and Wales (secular license with Islamic ethical foundations — see Part VII)
 - **Jurisdiction:** Non-exclusive — disputes may be brought in England and Wales or where the breach occurs
@@ -57,19 +55,15 @@ If you create a derivative work of SIOL-licensed software:
 - **Version upgrade:** Software may be used under this version or any later version of SIOL published by the copyright holder
 - **Language:** The English version of the license is authoritative; translations have no legal effect
 
-### Can I redistribute or modify the license document?
+### Redistributing the License Document
 
 Verbatim copies of the license document may be freely copied and distributed. The name "Shariah-Informed Open License" and the abbreviation "SIOL" may not be used for modified versions without prior written permission. Modified versions must use a different name.
 
-### What is the Islamic basis for these restrictions?
+## The Islamic Basis
 
-*This section is not a legal instrument. It is an explanation, written plainly, of why this license exists and what Islamic principles underlie its restrictions. It is addressed to every person who encounters this Software — Muslim and non-Muslim alike.*
+*This is not a legal instrument. It is an explanation, written plainly, of why this license exists and what Islamic principles underlie its restrictions. It is addressed to every person who encounters this Software — Muslim and non-Muslim alike.*
 
-#### Why this license exists
-
-We are Muslims. We believe that human beings are trustees (*khulafa*) on this earth (Al-Baqarah 2:30) and that providing a tool which is then used to cause harm is a matter of moral accountability — what the scholars call *i'anah ala al-ma'siyah* (assistance in sin). A license cannot enforce morality. But the Islamic principle of *bara'a* (disavowal of complicity in wrongdoing) requires us to state clearly what this Software must not be used for. What a person does after hearing the truth is between them and Allah.
-
-#### The Five Objectives of Islamic Law (*Al-Maqasid al-Khamsah*)
+### The Five Objectives of Islamic Law (*Al-Maqasid al-Khamsah*)
 
 Classical Islamic scholars identified five essential things that Islamic law exists to protect:
 
@@ -79,27 +73,27 @@ Classical Islamic scholars identified five essential things that Islamic law exi
 4. The preservation of lineage and family (*hifz al-nasl*)
 5. The preservation of wealth and property (*hifz al-mal*)
 
-Every restriction in Part II of this license maps to one or more of these objectives. Riba destroys wealth and exploits the vulnerable. Pornography corrupts lineage, chastity, and the intellect. Gambling corrupts wealth, reason, and social cohesion.
-
-Intoxicants destroy the intellect. Surveillance and oppression destroy life and freedom. Weapons that kill civilians destroy life entirely. Fraud destroys wealth and trust.
+Every restriction in this license maps to one or more of these objectives. Riba destroys wealth and exploits the vulnerable. Pornography corrupts lineage, chastity, and the intellect. Gambling corrupts wealth, reason, and social cohesion. Intoxicants destroy the intellect. Surveillance and oppression destroy life and freedom. Weapons that kill civilians destroy life entirely. Fraud destroys wealth and trust.
 
 We are not innovating new ethics. We are applying a 1,400-year-old ethical framework, refined by generations of scholars, to a new domain.
 
-#### An invitation
+### An Invitation
 
 We do not release this Software with hostility toward anyone. We release it with the hope that it will be genuinely useful, that its restrictions will cause those who encounter them to reflect — even briefly — on what they are building and why, and that the explanation above might, for some reader, be an opening toward understanding the ethical coherence of Islamic values.
 
 The Prophet Muhammad, peace be upon him, said: *"None of you truly believes until he loves for his brother what he loves for himself"* (Sahih Bukhari, 13). We want, for every human being, what we want for ourselves: a life of dignity, honesty, and safety from exploitation. This license is a small expression of that wish. Before Allah, each person bears the weight of their own choices.
 
-> *"Our Lord, accept this from us. Indeed, You are the Hearing, the Knowing."*
-> — Surah Al-Baqarah (2:127)
-
-### Why doesn't SIOL use Shariah courts?
+### Why Doesn't SIOL Use Shariah Courts?
 
 SIOL is a secular license with ethical restrictions drawn from Islamic teachings. It is not governed by Shariah law. We live in a world where no Shariah court system exists with the jurisdiction to enforce software licenses across borders. We acknowledge this reality honestly rather than claim an authority we do not possess. The Ethical Use Restrictions are legal terms interpreted and enforced under English law. Their Islamic foundation is a matter of conscience, not of jurisdiction.
 
 If Allah wills, a time may come when the believing community restores institutions of justice rooted in divine law, as in the time of the Prophet, peace be upon him. Until that day, this License operates within the legal systems available to us, imperfect as they are.
 
-## Citation
+> *"Our Lord, accept this from us. Indeed, You are the Hearing, the Knowing."*
+> — Surah Al-Baqarah (2:127)
+
+---
+
+**Status:** This license is in active scholarly review. The text may change as it undergoes review and community feedback. We take that obligation seriously.
 
 Reference identifier: `SIOL-1.0`
