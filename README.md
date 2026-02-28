@@ -94,6 +94,6 @@ If Allah wills, a time may come when the believing community restores institutio
 
 ---
 
-**Status:** This license is in active scholarly review. The text may change as it undergoes review and community feedback. We take that obligation seriously.
+**Status:** This license is in scholarly review. The text may change as it undergoes review and community feedback. We take that obligation seriously.
 
 Reference identifier: `SIOL-1.0`
