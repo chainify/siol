@@ -24,8 +24,8 @@ SIOL follows the structure of the Apache License 2.0, with an added section of E
 
 To license your software under SIOL:
 
-1. Copy `SIOL-1.0.txt` unchanged into your project root as `LICENSE`.
-2. State the copyright owner and the license in your project's README or in a `NOTICE` file, for example:
+1. Copy `SIOL-1.0.txt` unchanged into your project root as `LICENSE`. This alone places your project under SIOL.
+2. Recommended: state the copyright owner and the license in your project's README or in a `NOTICE` file, so people know who the licensor is, for example:
    ```
    Copyright 2026 Your Name
 
