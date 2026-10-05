@@ -16,48 +16,42 @@ SIOL grants broad rights — use, copy, modify, distribute, and commercialise �
 6. **Weapons that kill civilians** — All weapons systems, conventional or otherwise, used or designed to harm civilian populations
 7. **Systematic deception and fraud** — Phishing, scam infrastructure, and disinformation platforms
 
-Each restriction is narrowly scoped using a **Primary Function** test — incidental, ancillary, or unintended uses do not trigger a violation. Each restriction includes detailed clarifications and an **Islamic Basis** passage providing the scholarly and scriptural foundation (explicitly non-operative — context only, not additional legal obligations).
+Each restriction is narrowly scoped using a **Primary Function** test — incidental, ancillary, or unintended uses do not trigger a violation. Each restriction includes detailed clarifications. The scholarly and scriptural foundation for each restriction is set out in [`ISLAMIC-BASIS.md`](ISLAMIC-BASIS.md), which is not part of the license.
 
-SIOL is **source-available**, not open source as defined by the Open Source Initiative (OSI).
+SIOL follows the structure of the Apache License 2.0, with an added section of Ethical Use Restrictions. It is **source-available**, not open source as defined by the Open Source Initiative (OSI).
 
 ## How to Use SIOL
 
 To license your software under SIOL:
 
-1. Copy `SIOL-1.0.txt` into your project root (commonly as `LICENSE` or `LICENSE.md`).
-2. Replace the placeholders at the top of the file:
-   - `[Year]` — Year of first publication
-   - `[Copyright Holder]` — Your name or organisation
-3. Replace `[Copyright Holder Contact Information]` at the bottom with your contact details (for questions about your software — questions about the SIOL license itself go to siol@cnfy.org).
-4. Reference the license in your project (e.g., in your README):
-   ```
-   Licensed under the Shariah-Informed Open License (SIOL) Version 1.0.
-   See LICENSE for details.
-   ```
+1. Copy `SIOL-1.0.txt` unchanged into your project root as `LICENSE`.
+2. Add the notice from the license Appendix to the top of your source files, replacing `[yyyy]` with the year and `[name of copyright owner]` with your name or organisation.
+3. Optionally, add a `NOTICE` file with attribution notices that redistributors must keep.
+
+Questions about the SIOL license itself go to siol@cnfy.org.
 
 ### Derivative Works
 
-If you create a derivative work of SIOL-licensed software:
+If you modify or build on SIOL-licensed software:
 
-- Retain all existing copyright notices without modification.
-- Add your own copyright notice for your modifications.
-- Clearly identify what was modified and when.
-- Distribute under SIOL (derivative works must use this license).
+- Give recipients a copy of the license.
+- Mark the files you changed.
+- Keep the existing copyright, patent, trademark, and attribution notices, and the contents of any `NOTICE` file.
+- You may license your own modifications under any terms you choose, as long as those terms include the SIOL Ethical Use Restrictions. The restrictions always travel with the code.
 
 ## Key Legal Details
 
-- **Governing law:** England and Wales (secular license with Islamic ethical foundations — see Part VII)
-- **Jurisdiction:** Non-exclusive — disputes may be brought in England and Wales or where the breach occurs
-- **Termination:** Automatic upon breach; first-time breaches are automatically reinstated if cured within 30 days
-- **Patents:** Contributors grant a patent license; patent litigation against the project terminates the litigant's license
-- **Contributions:** Submitting a contribution grants a perpetual, royalty-free license and patent grant under SIOL terms, with a moral rights waiver
-- **No endorsement:** The original copyright holder's name may not be used to endorse derivative works without written permission
-- **Version upgrade:** Software may be used under this version or any later version of SIOL published by the copyright holder
-- **Language:** The English version of the license is authoritative; translations have no legal effect
+- **Governing law:** None specified, as in Apache 2.0
+- **Termination:** Automatic upon breach of the Ethical Use Restrictions; first breaches are automatically reinstated if cured within 30 days
+- **Patents:** Contributors grant a patent license; patent litigation over the software terminates the litigant's patent license
+- **Contributions:** Contributions are made under SIOL terms unless the contributor states otherwise
+- **Trademarks:** No rights are granted to the licensor's names or marks
+- **Steward:** cnfy.org publishes SIOL and is the only party that may issue new versions
+- **Version upgrade:** Software may be used under later versions of SIOL only if its notice says "or any later version"
 
 ### Redistributing the License Document
 
-Verbatim copies of the license document may be freely copied and distributed. The name "Shariah-Informed Open License" and the abbreviation "SIOL" may not be used for modified versions without prior written permission. Modified versions must use a different name.
+Verbatim copies of the license document may be freely copied and distributed. The name "Shariah-Informed Open License" and the abbreviation "SIOL" may not be used for modified versions without the prior written permission of cnfy.org.
 
 ## The Islamic Basis
 
@@ -85,7 +79,7 @@ The Prophet Muhammad, peace be upon him, said: *"None of you truly believes unti
 
 ### Why Doesn't SIOL Use Shariah Courts?
 
-SIOL is a secular license with ethical restrictions drawn from Islamic teachings. It is not governed by Shariah law. We live in a world where no Shariah court system exists with the jurisdiction to enforce software licenses across borders. We acknowledge this reality honestly rather than claim an authority we do not possess. The Ethical Use Restrictions are legal terms interpreted and enforced under English law. Their Islamic foundation is a matter of conscience, not of jurisdiction.
+SIOL is a copyright license with ethical restrictions drawn from Islamic teachings. Like Apache 2.0, it names no governing law and no court. We live in a world where no Shariah court system exists with the jurisdiction to enforce software licenses across borders, and we do not claim an authority we do not possess. Whoever breaches the Ethical Use Restrictions loses the permission to use the software. Whether to take a breach to court is for each copyright holder to decide. Allah sees and knows who honours this license and who does not, and before Him each person answers for their own choices.
 
 If Allah wills, a time may come when the believing community restores institutions of justice rooted in divine law, as in the time of the Prophet, peace be upon him. Until that day, this License operates within the legal systems available to us, imperfect as they are.
 
