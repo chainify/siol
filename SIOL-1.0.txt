@@ -497,7 +497,7 @@ archives.
     License, including its Ethical Use Restrictions. You may obtain a copy
     of the License at
 
-        [License URL]
+        https://github.com/chainify/siol/blob/main/SIOL-1.0.txt
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
