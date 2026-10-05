@@ -46,12 +46,12 @@ If you modify or build on SIOL-licensed software:
 - **Patents:** Contributors grant a patent license; patent litigation over the software terminates the litigant's patent license
 - **Contributions:** Contributions are made under SIOL terms unless the contributor states otherwise
 - **Trademarks:** No rights are granted to the licensor's names or marks
-- **Steward:** cnfy.org publishes SIOL and is the only party that may issue new versions
+- **Steward:** Chainify Blockchain Technologies Ltd (company number 16263265, England and Wales) publishes SIOL and is the only party that may issue new versions
 - **Version upgrade:** Software may be used under later versions of SIOL only if its notice says "or any later version"
 
 ### Redistributing the License Document
 
-Verbatim copies of the license document may be freely copied and distributed. The name "Shariah-Informed Open License" and the abbreviation "SIOL" may not be used for modified versions without the prior written permission of cnfy.org.
+Verbatim copies of the license document may be freely copied and distributed. The name "Shariah-Informed Open License" and the abbreviation "SIOL" may not be used for modified versions without the prior written permission of the Steward.
 
 ## The Islamic Basis
 
