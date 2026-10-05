@@ -25,8 +25,14 @@ SIOL follows the structure of the Apache License 2.0, with an added section of E
 To license your software under SIOL:
 
 1. Copy `SIOL-1.0.txt` unchanged into your project root as `LICENSE`.
-2. Add the notice from the license Appendix to the top of your source files, replacing `[yyyy]` with the year and `[name of copyright owner]` with your name or organisation.
-3. Optionally, add a `NOTICE` file with attribution notices that redistributors must keep.
+2. State the copyright owner and the license in your project's README or in a `NOTICE` file, for example:
+   ```
+   Copyright 2026 Your Name
+
+   Licensed under the Shariah-Informed Open License, Version 1.0.
+   See LICENSE for details.
+   ```
+3. Optionally, add the notice from the license Appendix to the top of your source files. This helps when individual files may be copied on their own.
 
 Questions about the SIOL license itself go to siol@cnfy.org.
 
