@@ -70,8 +70,9 @@ purpose for which a system, platform, application, or service is designed and
 marketed, as would be understood by a reasonable person. Incidental,
 ancillary, or unintended uses do not constitute the Primary Function.
 
-"Steward" shall mean cnfy.org, the publisher of this License, which may be
-contacted at siol@cnfy.org.
+"Steward" shall mean Chainify Blockchain Technologies Ltd, a company
+registered in England and Wales under company number 16263265, the publisher
+of this License, which may be contacted at siol@cnfy.org.
 
 --------------------------------------------------------------------------------
 2. GRANT OF COPYRIGHT LICENSE
